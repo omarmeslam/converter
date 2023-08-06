@@ -1,7 +1,7 @@
 # Converter  
 
 -Converting between number systems (Binary, Decimal, Hex) by using the keypad.    
--Display result in Decimal, Hexadecimal and Binary Formats on LCD.
+-Display result in Decimal, Hexadecimal and Binary Formats on LCD.     
 -based on Atmega32.     
 
 #1 start of the program-->
